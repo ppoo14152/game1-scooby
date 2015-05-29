@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fantasma()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ fantasma\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ Mueve\ al\ fantasma\ de\ acuerdo\ a\ las\ coordenadas\ de\ Scooby\r\n
+comment3.params=
+comment3.target=int\ getDir()
+comment3.text=\r\n\ Envia\ si\ el\ objeto\ se\ dirige\ a\ la\ izquierda\ o\ a\ la\ derecha\r\n
+numComments=4

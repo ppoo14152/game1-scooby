@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rayo()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ Mueve\ la\ clase\ fantasma\ a\ la\ izquierda\ y\ a\ la\ derecha.\ \r\n
+comment3.params=
+comment3.target=void\ aparece()
+comment3.text=\r\n\ Aparece\ en\ frende\ del\ objeto\ de\ la\ clase\ fantasma\ que\ se\ encuentra\ en\ el\ mundo,\ con\ coordenadas\ especificas.\r\n
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemigo()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=unaDireccion\ unaFoto
+comment2.target=boolean\ checa(int,\ java.lang.String)
+comment2.text=\r\n\ checa\ si\ el\ obeto\ sobrepasa\ los\ limites\ del\ mundo.\r\n
+comment3.params=numeroObjeto
+comment3.target=void\ inicializaS(int)
+comment3.text=\r\n\ Inicializa\ el\ objeto\ de\ la\ clase\ Scooby\r\n
+comment4.params=numeroObjeto
+comment4.target=void\ inicializaF(int)
+comment4.text=\r\n\ Inicializa\ el\ objeto\ fantasna\ que\ se\ encuentra\ en\ el\ mundo\ para\ que\ esta\ pueda\ tener\ control\ sobre\ \u00E9l.\r\n
+comment5.params=
+comment5.target=void\ muevete()
+comment5.text=\r\n\ M\u00E9todo\ abstracto\ usado\ para\ el\ movimiento\ de\ las\ subclses\ de\ la\ clase\ enmigo.\r\n
+comment6.params=w
+comment6.target=void\ cambiaMundo(greenfoot.World)
+comment6.text=\r\n\ Es\ llamada\ para\ llamar\ al\ mundo\ final\ e\ indicar\ que\ el\ juego\ ha\ acabado.\r\n
+numComments=7

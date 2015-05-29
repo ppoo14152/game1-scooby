@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vampiro()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ vampiro\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ Mueve\ al\ objeto\ vampiro\ por\ todo\ el\ mundo\r\n
+comment3.params=
+comment3.target=void\ choque()
+comment3.text=\r\n\ Valida\ si\ Vampiro\ es\ tocado\ por\ un\ objeto\ de\ la\ clase\ Scooby\r\n
+numComments=4

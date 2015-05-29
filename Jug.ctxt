@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Jug(int,\ int)
+comment0.text=\r\n\ Coloca\ la\ imagen\ de\ fondo\ de\ la\ parte\ de\ los\ records\ y\ los\ par\u00E1metros\ de\ altura\ y\ ancho\ son\ para\ colocar\ la\ imagen\ en\ el\ mundo.\r\n
+comment1.params=text\ x\ y\ color\ height
+comment1.target=void\ drawString(java.lang.String,\ int,\ int,\ java.awt.Color,\ int)
+comment1.text=\r\n\ M\u00E9todo\ que\ se\ encarga\ de\ dibujar\ las\ cadenas.\r\n
+comment2.params=
+comment2.target=void\ drawScores()
+comment2.text=\r\n\ Proyecta\ el\ nombre\ del\ jugador\ y\ el\ puntaje\ respectivo.\r\n
+comment3.params=left\ top\ right\ bottom\ users
+comment3.target=void\ drawUserPanel(int,\ int,\ int,\ int,\ java.util.List)
+comment3.text=\r\n\ Dibuja\ la\ tabla\ de\ records.\r\n
+numComments=4

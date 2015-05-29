@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ obstaculo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=unaFoto
+comment1.target=boolean\ checa(java.lang.String)
+comment1.text=\r\n\ checha\ si\ el\ obstaculo\ sobrepasa\ los\ limites\ del\ mundo\r\n
+comment2.params=unaFoto\ unaVelocidad
+comment2.target=void\ mueveObstaculo(java.lang.String,\ int)
+comment2.text=\r\n\ M\u00E9todo\ que\ mueve\ el\ obst\u00E1culo\ y\ lo\ redibuja\ cuando\ sobrepasa\ los\ limites\ del\ mundo\r\n
+numComments=3

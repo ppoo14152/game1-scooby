@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bautores()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=w
+comment2.target=void\ mouseSobreObjecto(greenfoot.World)
+comment2.text=\r\n\ Detecta\ si\ el\ objeto\ es\ tocado\ por\ el\ mouse.\ \r\n
+comment3.params=w
+comment3.target=void\ cambiaMundo(greenfoot.World)
+comment3.text=\r\nCambia\ el\ mundo\ si\ es\ tocado\ por\ el\ objeto\ \r\n
+numComments=4

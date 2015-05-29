@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=escenario
+comment0.target=Jugar(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Todos\ los\ objetos\ entran\ en\ acci\u00F3n.\r\n
+comment2.params=
+comment2.target=void\ apareceGalleta()
+comment2.text=\r\n\ Aparece\ la\ ScoobyGalleta\ en\ un\ tiempo\ determinado.\r\n
+comment3.params=
+comment3.target=void\ adiosMusica()
+comment3.text=\r\n\ Silencia\ musica\ \r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Roca()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ roca\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=w
+comment2.target=void\ cambiaMundo(greenfoot.World)
+comment2.text=\r\n\ Esta\ clase\ se\ encarga\ de\ cambiar\ el\ mundo\ si\ es\ tocada\ por\ un\ objeto\ d\ ela\ clase\ Scooby.\r\n
+comment3.params=
+comment3.target=void\ mueveRoca()
+comment3.text=\r\n\ Se\ encarga\ de\ mover\ la\ roca\ de\ arriba\ a\ abajo.\r\n
+comment4.params=unaFoto
+comment4.target=boolean\ checa(java.lang.String)
+comment4.text=\r\n\ Checa\ si\ Roca\ ha\ sobrepasado\ los\ limites\ del\ mundo.\r\n
+numComments=5
